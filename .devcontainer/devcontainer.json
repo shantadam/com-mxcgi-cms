@@ -18,5 +18,4 @@
         }
     },
     "postCreateCommand": "bash -c 'ddev poweroff && ddev start -y && ddev composer install'"
-    }
 }
